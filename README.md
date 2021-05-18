@@ -1,7 +1,6 @@
 # textautocompletion
-Implemented Android app "Text Auto-completion" that automatically gives suggestions to the user as he/she is typing.
 
-Introduction: -
+# Introduction: -
 Implemented android app that automatically gives suggestions to
 the user as he/she is typing. The distances between the input text and an
 English dictionary of 20,000 words are calculated. The words with the
@@ -20,7 +19,7 @@ the chances of spelling errors. It saves time by suggesting the text rather
 than typing the whole word. The app could also suggest corrections for
 spelling mistakes. It also Improves user experience.
 
-Working: -
+# Working: -
 An editable text view where the user will type the text and the buttons
 will show the text suggestions automatically while user is typing. The
 suggestions is displayed in the three buttons from which the user can
